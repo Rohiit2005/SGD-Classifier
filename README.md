@@ -17,7 +17,7 @@ start the program
  Train the Model Using Stochastic Gradient Descent (SGD)
 ### Step 5:
  Make Predictions and Evaluate Accuracy
-### step 6:
+### Step 6:
  Generate Confusion Matrix
 ### Step 7:
 Stop the program
